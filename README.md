@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoooyeon&show_icons=true&theme=rose_pine)
 
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uuwa1034)](https://solved.ac/uuwa1034/)
+-->
 <div style="display: flex;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
