@@ -35,4 +35,8 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=MariaDB&amp;logoColor=white">
    </a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white">
+   </a>
 </div>
