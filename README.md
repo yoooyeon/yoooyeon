@@ -32,4 +32,7 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=MariaDB&amp;logoColor=white">
+   </a>
 </div>
